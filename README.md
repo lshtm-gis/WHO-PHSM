@@ -1,7 +1,7 @@
-![](./images/phsm-header1.png)
-
 # WHO-PHSM
 Repository for releases of the WHO PHSM dataset
+
+![](./images/phsm-header1.png)
 
 A repository for access to the PHSM dataset. 
 
