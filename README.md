@@ -11,7 +11,9 @@ The dataset is also available [here](https://www.who.int/emergencies/diseases/no
 **processed**  
   - values: `["not_cleansed", "cleansed", "sequenced"]`    
   - description: Whether a column has been cleaned by volunteers. Not cleansed (no volunteer validation), cleansed (validated by volunteers), sequenced (intergated with other preceding and following interventions).  
+
 <br/> 
+
 **who_id**  
   - values:  
   - description: A unique id column for the who_intervention dataset  
