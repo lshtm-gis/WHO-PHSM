@@ -15,11 +15,15 @@ The dataset is also available [here](https://www.who.int/emergencies/diseases/no
 **who_id**  
   - values:  
   - description: A unique id column for the who_intervention dataset  
+
 <br/> 
+
 **dataset**  
   - values: `["ACAPS", "OxCGRT", "JH_HIT", "CDC_ITF", "WHO_IHR", "GPHIN", "CSHVienna"]`  
   - description: The provider of each record (will change as more records are cleaned).  
-<br/>
+
+<br/> 
+
 **prop_id**  
   - values:  
   - description: A proprietary ID number used by each provider (some are unique, others are unreliable)  
