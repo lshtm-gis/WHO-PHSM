@@ -7,7 +7,7 @@ A repository for access to the PHSM dataset.
 
 The dataset is also available [here](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/phsm).
 
-## master dataset reference
+## global_PHSM_cleaned dataset reference
 **processed**  
   - values: `["not_cleansed", "cleansed", "sequenced"]`    
   - description: Whether a column has been cleaned by volunteers. Not cleansed (no volunteer validation), cleansed (validated by volunteers), sequenced (intergated with other preceding and following interventions).  
