@@ -180,6 +180,11 @@ The dataset is also available from WHO [here](https://www.who.int/emergencies/di
 
 <br/> 
 
+**trigger**  
+  - values:  ["VOC", "EPI", "other", "unknown"]
+  - description: Cause of measure implementation.  
+
+<br/> 
 **value_usd**  
   - values:  
   - description: USD value of an economic intervention (only available for records from OxCGRT).  
